@@ -16,6 +16,10 @@ export default function Navbar() {
           <Link href="/notes" className="hover:text-yellow-400">Notes</Link>
           <Link href="/pyq" className="hover:text-yellow-400">PYQ</Link>
           <Link href="/books" className="hover:text-yellow-400">Books</Link>
+        
+<Link href="/books" className="hover:text-yellow-400">Books</Link>
+{/* Add this new link: */}
+<Link href="/community" className="text-yellow-300 font-semibold hover:text-white">Forum</Link>
         </div>
 
         {/* Mobile Menu Button (Simplified for now) */}
