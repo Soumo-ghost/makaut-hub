@@ -1,5 +1,12 @@
 import GpaCalculator from '../../components/GpaCalculator';
+export const metadata = {
+  title: 'SGPA to Percentage Calculator | MAKAUT Hub',
+  description: 'Convert your MAKAUT SGPA to Percentage instantly using the official formula (SGPA - 0.75) * 10.',
+};
 
+export default function CalculatorPage() {
+  // ... rest of your code
+}
 export default function CalculatorPage() {
   return (
     <div className="flex flex-col items-center justify-center py-10">
