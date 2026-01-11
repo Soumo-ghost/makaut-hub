@@ -5,9 +5,6 @@ export const metadata = {
 };
 
 export default function CalculatorPage() {
-  // ... rest of your code
-}
-export default function CalculatorPage() {
   return (
     <div className="flex flex-col items-center justify-center py-10">
       <h1 className="text-3xl font-bold mb-6">SGPA to Percentage Calculator</h1>
