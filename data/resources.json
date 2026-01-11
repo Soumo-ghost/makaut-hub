@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "pyq",
+    "stream": "CSE",
+    "semester": 3,
+    "subject": "Data Structures",
+    "link": "https://drive.google.com/your-pdf-link",
+    "year": "2023"
+  },
+  {
+    "id": 2,
+    "type": "playlist",
+    "stream": "CSE",
+    "subject": "Digital Logic",
+    "link": "https://youtube.com/playlist?list=...",
+    "channel": "Gate Smashers"
+  },
+  { "id": 1, "type": "pyq", "stream": "CSE", "subject": "Data Structures", "link": "#", "semester": 3 },
+  { "id": 2, "type": "note", "stream": "CSE", "subject": "Algorithms", "link": "#", "semester": 4 },
+  { "id": 3, "type": "book", "stream": "ECE", "subject": "Digital Electronics", "link": "#", "semester": 3 }
+]
